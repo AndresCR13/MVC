@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{282BACB1-4E0A-48CA-BE59-6EAEFC216030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{4FE6869D-F388-47D0-8BF9-9DBD3295AB3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{BA09B144-1857-420B-AA9C-A8097C695DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282BACB1-4E0A-48CA-BE59-6EAEFC216030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282BACB1-4E0A-48CA-BE59-6EAEFC216030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282BACB1-4E0A-48CA-BE59-6EAEFC216030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282BACB1-4E0A-48CA-BE59-6EAEFC216030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE6869D-F388-47D0-8BF9-9DBD3295AB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE6869D-F388-47D0-8BF9-9DBD3295AB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE6869D-F388-47D0-8BF9-9DBD3295AB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE6869D-F388-47D0-8BF9-9DBD3295AB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA09B144-1857-420B-AA9C-A8097C695DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA09B144-1857-420B-AA9C-A8097C695DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA09B144-1857-420B-AA9C-A8097C695DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA09B144-1857-420B-AA9C-A8097C695DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE601C7B-4F29-4F35-83A3-934B2F3CC1A7}
+	EndGlobalSection
+EndGlobal
